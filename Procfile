@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Liti
+web: bin/hubot -a hipchat -n Liti
