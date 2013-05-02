@@ -1,0 +1,9 @@
+[
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "shipit.coffee",
+  "uptime.coffee",
+  "newrelic.coffee",
+  "meme_captain.coffee",
+  "ascii.coffee"
+]
