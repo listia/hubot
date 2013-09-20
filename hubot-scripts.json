@@ -1,7 +1,9 @@
 [
   "redis-brain.coffee",
-  "tweet.coffee",
-  "shipit.coffee",
+  "applause.coffee",
+  "directions.coffee",
+  "encourage.coffee",
+  "keep-alive.coffee",
   "uptime.coffee",
   "newrelic.coffee",
   "meme_captain.coffee",
